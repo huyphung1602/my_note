@@ -1,8 +1,9 @@
 # My Note
 
-## To Do
+## To Do Lists
 Store all of my todo lists
+- Oct 2018 (1/31)
 
-## Note
+## Notes
 Store all my notes when I read articles or books
 
